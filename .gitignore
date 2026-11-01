@@ -1,0 +1,8 @@
+# Бинарные файлы Go
+/cart-service-lite
+/main.go.example
+main_extra_test.go
+*.test
+*.out
+/coverage.out
+/coverage.html

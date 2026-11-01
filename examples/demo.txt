@@ -1,0 +1,12 @@
+# Пример команд для чтения из файла
+catalog
+add coffee 2
+add mug 1
+cart
+promo SALE10
+cart
+checkout
+stock coffee
+stock mug
+cart
+checkout
